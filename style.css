@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Sacramento");
+
 body {
     background-color: #1e1934;
   }
@@ -13,8 +13,8 @@ body {
     text-align: center;
     font-size: 2em;
     font-weight: 100;
-    font-family: fantasy;
-    line-height: 16px;
+    font-family: monospace;
+    line-height: 24px;
     letter-spacing: 0.1em;
     color: white;
     text-shadow: 0 0 20px black;
