@@ -14,6 +14,7 @@ body {
     font-size: 2em;
     font-weight: 100;
     font-family: fantasy;
+    line-height: 16px;
     letter-spacing: 0.1em;
     color: white;
     text-shadow: 0 0 20px black;
